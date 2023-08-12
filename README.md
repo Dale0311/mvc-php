@@ -49,6 +49,7 @@
         because callback can be fn, string, array
         
         ![resolveCb](https://github.com/Dale0311/mvc-php/assets/101126064/fd09ead5-eb5e-4a56-8d78-1964f0260021)
+
         ![resolveCb2](https://github.com/Dale0311/mvc-php/assets/101126064/a4806932-2ea3-4e06-9fa9-28d4c9a7255e)
 
         Note: the call_user_func will find a method inside the class that corresponds to the 2nd item in the array.
