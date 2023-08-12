@@ -46,8 +46,9 @@
 
 #### confusing parts >_< :
 1. @resolve 
-        because callback can be fn, string, array
-        ![resolveCb](https://github.com/Dale0311/mvc-php/assets/101126064/df74039e-c80e-47ae-a9f8-359fe8bd8326)
+because callback can be fn, string, array
+![resolveCb](https://github.com/Dale0311/mvc-php/assets/101126064/df74039e-c80e-47ae-a9f8-359fe8bd8326)
         
-        Note: the call_user_func will find a method inside the class that corresponds to the 2nd item in the array.
-        ![resolveCb2](https://github.com/Dale0311/mvc-php/assets/101126064/312ba95d-8997-4f92-85a7-1960a499b55c)
+Note: the call_user_func will find a method inside the class that corresponds to the 2nd item in the array.
+![resolveCb2](https://github.com/Dale0311/mvc-php/assets/101126064/312ba95d-8997-4f92-85a7-1960a499b55c)
+
