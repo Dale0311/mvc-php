@@ -8,8 +8,11 @@ use app\core\Request;
 
 class AuthController extends Controller
 {   
-    function login(Request $request){
+    function __construct()
+    {
         $this->setLayout("auth");
+    }
+    function login(Request $request){
         if($request->isPost()){
             $body = $request->getBody();
         }
