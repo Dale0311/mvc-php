@@ -48,8 +48,7 @@
 1. @resolve 
         because callback can be fn, string, array
         
-        ![resolveCb](https://github.com/Dale0311/mvc-php/assets/101126064/fd09ead5-eb5e-4a56-8d78-1964f0260021)
-
-        ![resolveCb2](https://github.com/Dale0311/mvc-php/assets/101126064/a4806932-2ea3-4e06-9fa9-28d4c9a7255e)
+        ![resolveCb](https://user-images.githubusercontent.com/101126064/260209121-865d81f1-998a-4b7f-a378-3b78c2c1cee0.png)
+        ![resolveCb2](https://user-images.githubusercontent.com/101126064/260209124-aac616e4-0c6c-4fd5-8ba8-920bc41e2654.png)
 
         Note: the call_user_func will find a method inside the class that corresponds to the 2nd item in the array.
