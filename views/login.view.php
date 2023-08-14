@@ -78,7 +78,7 @@
     <div class="flex items-center justify-between">
       <p class="text-sm text-gray-500">
         No account?
-        <a class="underline" href="">Sign up</a>
+        <a class="underline" href="/register">Sign up</a>
       </p>
 
       <button
